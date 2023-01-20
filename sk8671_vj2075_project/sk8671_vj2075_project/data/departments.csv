@@ -1,0 +1,21 @@
+dept_id,dept_name,school_id
+016569c7-80ab-48cc-8141-32102b26b70d,Department of Applied Physics                                                                                                   ,20ec3142-c62d-4fd1-8c8e-4bfdc1631167
+1bc356ee-8182-4ea8-b7cc-6a93e50fb929,"Department of Technology,Management and Innovation                                                                              ",20ec3142-c62d-4fd1-8c8e-4bfdc1631167
+31cd9255-ab49-4d8f-ad3b-57ff5d27d648,Department of Entrepreneurial Management                                                                                        ,095ab2a0-5976-4a1a-bed4-9f69c1cadc63
+3e30520d-1b16-411a-91da-5340b11fc62e,Center for Urban Science and Progress                                                                                           ,20ec3142-c62d-4fd1-8c8e-4bfdc1631167
+42345f41-e4a8-4fc2-8b57-319092ccbc5d,Department of Finance and Risk Engineering                                                                                      ,20ec3142-c62d-4fd1-8c8e-4bfdc1631167
+4623d3ba-9447-4fbf-8b4d-31aad1e92317,Department of Health and Well Being                                                                                             ,200e07f7-6894-42f9-98eb-3179352bc1fc
+4e127bbe-a7d4-4cfe-8e02-41032b2921ee,Department of Finance                                                                                                           ,a3cfc46d-07fd-4661-bc40-6a9281e41397
+4f63b8f7-45f4-4395-ab8d-f438e7b8eb6d,Department of Computer Science                                                                                                  ,2d2cd666-05d6-4ea0-9c60-8a70bb0d5d1c
+6393042f-1559-4d03-8217-1b02c17d9600,Center for Arts and Cultural Policy Studies                                                                                     ,200e07f7-6894-42f9-98eb-3179352bc1fc
+6ef51086-a30a-42bc-9d43-be10e080d173,Department of Organizational Behaviour                                                                                          ,095ab2a0-5976-4a1a-bed4-9f69c1cadc63
+7f7722fd-61c5-41a1-8f34-0e6fa64283f4,Department of Quantum Science and Engineering                                                                                   ,2d2cd666-05d6-4ea0-9c60-8a70bb0d5d1c
+ac354e1b-3840-4aa4-9d5a-9b60a2b750c9,Department of Marketing                                                                                                         ,a3cfc46d-07fd-4661-bc40-6a9281e41397
+b6c9797e-cfb1-4adb-9314-d42ab4f34849,Department of Computer Science and Engineering                                                                                  ,20ec3142-c62d-4fd1-8c8e-4bfdc1631167
+b6d3958e-3574-44f5-af24-e7f1c09f2111,Department of Computer Science                                                                                                  ,54165b33-8d5a-4709-9785-79ce1bb16b2d
+b7402ee1-7ddf-4874-ade0-9029ff4e57b0,Department of Aeronautics and Astronautics                                                                                      ,54165b33-8d5a-4709-9785-79ce1bb16b2d
+ba42741b-301a-4828-8f89-64007ec171e8,Department of Earth System Science                                                                                              ,3215df1f-99f4-417e-9504-6c339cbc9d98
+c7bb5249-9aa0-4cf8-908c-b9d684d69359,Department of Economics                                                                                                         ,a3cfc46d-07fd-4661-bc40-6a9281e41397
+c7eedb17-78ed-44fa-812a-0d20082d0724,Department of Geophysics                                                                                                        ,3215df1f-99f4-417e-9504-6c339cbc9d98
+d9915991-1880-47a2-a21d-efce7964a593,"Department of Technology,Operations and Statistics                                                                              ",a3cfc46d-07fd-4661-bc40-6a9281e41397
+ef56a68b-adfd-433c-8be0-803e67416895,Department of Accounting                                                                                                        ,a3cfc46d-07fd-4661-bc40-6a9281e41397

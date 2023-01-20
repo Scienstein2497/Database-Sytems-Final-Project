@@ -1,0 +1,31 @@
+tag_id,tag_name,tc_id
+09cf3cf3-3a9f-4c0d-a3dd-4e1787b391df,Cross Validation                ,d6907a1a-1410-4935-bca5-46cdd79dc02f
+11556653-a143-4571-bff2-a87a249b0ed3,Inferential Statistics          ,71b5dbfb-57cf-4e3a-b409-fb4672e23bcb
+177d9685-952c-4d48-a102-220b177f6994,Data Visualization              ,d55275eb-6263-464e-ad0d-4d20aa9438e7
+1cf67de8-d85d-4f21-8991-cec31736cde6,Java                            ,0d069605-304c-4358-ba90-07764f6e4dee
+2d78a613-7ced-40e6-b715-7e17e38ff84a,ReactJS                         ,56ad589a-235d-4d7d-a106-778e7400cc0d
+30d2a226-3697-4e16-854a-94231bafb1f4,Geostatistics                   ,71b5dbfb-57cf-4e3a-b409-fb4672e23bcb
+33109fb2-8d62-4648-82d0-1e912dbb245b,Data Mining                     ,d55275eb-6263-464e-ad0d-4d20aa9438e7
+4397be09-d633-4002-9927-d213bf75620b,Pandas                          ,64161d45-2ab8-4dd0-a494-be7ab2028d08
+64bf6c1d-c1fb-4f84-b3dd-6d2c16a80750,Mobile App Development          ,fafa08e9-2c12-4410-ad7b-2b767403f1bf
+6536e6f4-5121-4fec-99e3-ba085cb83b3a,Swift                           ,d9fb4acb-bd3f-4272-87e9-5be6c88de0d1
+6eeb9f61-1826-434c-9980-1031c27a61f0,Android Studio                  ,fafa08e9-2c12-4410-ad7b-2b767403f1bf
+70e7c568-18bf-4177-a412-885d33b3b4e8,Streamlit                       ,3f03f97d-9f13-4d27-90e7-fa09b7690664
+73f35af3-fb7d-4246-a751-3cbcafc2bea5,Numpy                           ,64161d45-2ab8-4dd0-a494-be7ab2028d08
+78b40afb-72e2-4b40-b0a6-77554d047bdb,C                               ,0d069605-304c-4358-ba90-07764f6e4dee
+7dbd2c1b-edb6-4f85-acef-c413342e1159,CSS                             ,56ad589a-235d-4d7d-a106-778e7400cc0d
+830ea248-64ce-4f59-8b72-37ee3ca689e1,MySQL                           ,3f03f97d-9f13-4d27-90e7-fa09b7690664
+92cc7b73-6e65-436a-8eb5-9ff7aee414c9,Data Processing                 ,d55275eb-6263-464e-ad0d-4d20aa9438e7
+9f8cb1af-3c85-4af6-838f-0e476f70a11b,Robotics                        ,b65e4973-4c34-4264-9c0a-b25105c1c737
+a4e8b479-09d9-4b73-805b-a15293d38f31,PostgreSQL                      ,3f03f97d-9f13-4d27-90e7-fa09b7690664
+a7f5643d-b675-459d-9713-95fae4f730c5,Supervised Learning             ,d6907a1a-1410-4935-bca5-46cdd79dc02f
+bb01266a-4ff6-43b5-aab0-e864a783fa02,Descriptive Statistics          ,71b5dbfb-57cf-4e3a-b409-fb4672e23bcb
+bb5de468-875e-4012-9a59-e7cc086b7ec0,Support Vector Machines         ,d6907a1a-1410-4935-bca5-46cdd79dc02f
+c7df17ad-2d50-472e-851d-3aa803e16926,Seaborn                         ,64161d45-2ab8-4dd0-a494-be7ab2028d08
+ccb0d156-eb4c-4fce-85fd-2f699eddc9a5,Kotlin                          ,d9fb4acb-bd3f-4272-87e9-5be6c88de0d1
+d33f68b2-7a96-4070-aee3-060f7b7c9784,Neural Networks                 ,b65e4973-4c34-4264-9c0a-b25105c1c737
+ea19e2b1-d96f-4066-82bb-19ae7cebf531,Android SDK                     ,fafa08e9-2c12-4410-ad7b-2b767403f1bf
+edcc6897-c8b5-4fc3-8fe4-e89201373012,Python                          ,0d069605-304c-4358-ba90-07764f6e4dee
+f23fc0b8-5f19-460d-be5d-d3dd81c25e9c,Objective C                     ,d9fb4acb-bd3f-4272-87e9-5be6c88de0d1
+f94ae53d-45d0-4267-a068-3d5c2be0387e,HTML                            ,56ad589a-235d-4d7d-a106-778e7400cc0d
+ff054d48-ca08-460d-abdb-50b5df1cf21d,Natural Language Processing     ,b65e4973-4c34-4264-9c0a-b25105c1c737
