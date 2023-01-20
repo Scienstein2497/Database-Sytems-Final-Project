@@ -9,6 +9,7 @@ Description:
 •Implemented a Tag and Tag Category functionality so that users can search and post using the tags and corresponding tag categories.
 •The custom created datasets encompassed more than 2500 records in total for all attributes of the application
 •Used psycopg2 driver, pandas, hash library to create implement various functionalities of the application and to allow for user login, authentication and registration.
+•Used psycopg2 driver, pandas, and hash library to create implement various functionalities of the application and to allow for user login, authentication and registration and used a data loading procedure to upload data using multiple CSVs
 •Psycopg2, PostgreSQL, Streamlit, Pandas, Hashlib, ConfigParser, Logging
 
 
